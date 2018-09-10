@@ -1,0 +1,20 @@
+.emm
+{
+    position: absoulte;
+}
+.emm1
+{
+    margin: 0 auto;
+    width: 80%;
+    height: 225px; 
+}
+.emm2
+{
+    font-size:40px;
+    color:black;
+    font-family: weiruanyahei;
+}
+.emm3
+{
+  position: relative;
+}
